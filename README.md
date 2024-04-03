@@ -3,17 +3,17 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Colégio Estadual Prof. Edith</title>
+    <title>Colégio Estadual Prof. Edithe</title>
     <style>
         body {
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
-            background-color: #f0f0f0;
+            background-color: #ff9100;
         }
         header {
-            background-color: #ff6600;
-            color: #ffffff;
+            background-color: #0011ff;
+            color: #000000;
             padding: 20px;
             text-align: center;
         }
@@ -31,7 +31,7 @@
             color: #ff6600;
         }
         section {
-            background-color: #ffffff;
+            background-color: #ff6600;
             padding: 20px;
             text-align: justify;
             margin: 20px;

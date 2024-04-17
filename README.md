@@ -49,6 +49,7 @@
 </head>
 <body>
     <header>
+        <img src="https://www.gis.seed.pr.gov.br/gis/exibirFoto.jpg?codFoto=1520" alt="Logo do Colégio Estadual Prof. Edith">
         <h1>Colégio Estadual Prof. Edith</h1>
     </header>
     <nav>
